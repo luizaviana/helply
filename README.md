@@ -21,5 +21,6 @@
 ⚠️ Para executar o software é preciso ter uma IDE Android (Sugerimos o Android Studio)
 
 - Abra o código na sua IDE de preferência, rode o programa utilizando um emulador ou um aparelho Android.
+- Abaixo é possível observar todas as telas e funcionalidades da interface:
 
 ![Helply (2)](https://user-images.githubusercontent.com/69872395/205062143-6cb8aa18-c694-4952-93f5-3ec9208cdd32.png)
