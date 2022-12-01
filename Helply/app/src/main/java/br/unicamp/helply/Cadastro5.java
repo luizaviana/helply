@@ -42,8 +42,8 @@ public class Cadastro5 extends AppCompatActivity {
                 if(!edtSenha.getText().toString().equals(edtConfirmaSenha.getText().toString()))
                 {
                     AlertDialog.Builder builder = new AlertDialog.Builder(Cadastro5.this);
-                    builder.setTitle("Confrimação de senha inválida");
-                    builder.setMessage("O campo de confrimação de senha está difrente do campo de senha");
+                    builder.setTitle("Confirmação de senha inválida");
+                    builder.setMessage("O campo de confirmação de senha está difrente do campo de senha");
 
                     builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                         @Override
